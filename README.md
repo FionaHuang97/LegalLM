@@ -1,5 +1,3 @@
-# bva-capstone
-Project folder for MCDS 2020 Capstone Project on BVA Appeal Prediction.
 
 # Building Citation Vocabulary & Dataset
 You can create a Pytorch [map-like dataset](https://pytorch.org/docs/stable/data.html#map-style-datasets) using the functions provided and illustrated in `dataset_build.py` from a notebook or console.
